@@ -18,6 +18,6 @@ npm run dev
 
 `Desplegado en el puerto: 5173`
 
-#¿Cómo decidió las opciones técnicas y arquitectónicas utilizadas como parte de su solución?
-#¿Hay alguna mejora que pueda hacer en su envío?
-#¿Qué haría de manera diferente si se le asignara más tiempo?
+# Prueba técnica — React developer
+
+[Link Prueba técnica](https://github.com/chedoc/prueba-tecnica-react-developer/tree/main?tab=readme-ov-file)
