@@ -28,7 +28,7 @@ const Series = () => {
 
     useEffect(() => {
         const getData = async () => {
-            const res = await fetch('/src/data/sample.json');
+            const res = await fetch('/data/sample.json');
             if (!res.ok) {
                 setIsError(true);
             }
